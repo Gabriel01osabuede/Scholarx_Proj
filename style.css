@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.card span{
+  color: #5b8cd6;
+}
+.card{
+  background-color: #f3ecec21;
+  font-size: 13px;
+}
+
+hr{
+  color: #ffffff;
+}
